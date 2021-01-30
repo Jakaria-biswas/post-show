@@ -1,0 +1,21 @@
+
+body{
+  background-color:#F5F5F5;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rootCard{
+    width: 300px;
+    margin: 20px 0px;
+    
+}
+.idStyle{
+    
+    padding-bottom: 10px;
+}
+.cardTitle{
+    color: purple
+}
